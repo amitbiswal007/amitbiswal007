@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @amitbiswal007
-- 👀 I’m interested in Programming and Software Engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Open Source Projects which helps community
-- 📫 How to reach me ...
+# 🌱 About Me:
+👋 Hi, I’m @amitbiswal007, I am an IT Consultant from India.
+
+ 👀 I’m interested in contributing to open source software community
+
+# 🌱 My Tech stack:
+- Backend: Java, Python, Nodejs
+- Frontend: HTML, CSS, Javascript, Typescript, Vuejs
+- Database: MySQL, Oracle, Neo4j
+- Testing: Selenium, Robot Framework, RestAssured, TestNG
+- Cloud: GCP, Azure
+  
+
+💞️ I’m looking to collaborate on Open Source Projects which helps community
+
+📫 I can be reached on Linkedin
 
 <!---
 amitbiswal007/amitbiswal007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
