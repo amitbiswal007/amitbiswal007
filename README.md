@@ -4,10 +4,10 @@
  👀 I’m interested in contributing to open source software community
 
 # 🌱 My Tech stack:
-- Backend: Java, Python, Nodejs
-- Frontend: HTML, CSS, Javascript, Typescript, Vuejs
+- Backend: Java, Springboot, Python, Nodejs
+- Frontend: HTML, CSS, Javascript, Typescript, Reactjs, Vuejs
 - Database: MySQL, Oracle, Neo4j
-- Testing: Selenium, Robot Framework, RestAssured, TestNG
+- Testing: Selenium, Robot Framework, RestAssured, TestNG, Cucumber, Appium, Playwright
 - Cloud: GCP, Azure
   
 
