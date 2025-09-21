@@ -13,7 +13,9 @@
 
 💞️ I’m looking to collaborate on Open Source Projects which helps community
 
-📫 I can be reached on Linkedin
+📫 I can be reached on Linkedin. 
+
+📫 **If your organization offers Remote Job in Software Engineering, Please do consider my profile for candidature.**
 
 <!---
 amitbiswal007/amitbiswal007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
