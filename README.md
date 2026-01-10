@@ -5,7 +5,7 @@
 
 # 🌱 My Tech stack:
 - Backend: Java, Springboot, Python, Nodejs
-- Frontend: HTML, CSS, Javascript, Typescript, Reactjs, Vuejs
+- Frontend: HTML, CSS, Javascript, Typescript, Reactjs, Vuejs, Bootstrap, TailwindCSS
 - Database: MySQL, Oracle, Neo4j
 - Testing: Selenium, Robot Framework, RestAssured, TestNG, Cucumber, Appium, Playwright
 - Cloud: GCP, Azure
